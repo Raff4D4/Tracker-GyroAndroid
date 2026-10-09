@@ -35,6 +35,5 @@ Untuk mencegah kebocoran memori (*memory leaks*) dan pemborosan daya baterai saa
 - **`onPause()`**: Melepas atau menghentikan listener sensor (`SensorManager.unregisterListener()`) segera setelah aplikasi masuk ke latar belakang atau berpindah layar.
 - **Compose DisposableEffect**: Integrasi `DisposableEffect` bersama `LocalLifecycleOwner` memastikan setiap komponen Composable memutus langganan sensor saat keluar dari komposisi.
 
--## Video Singkat-
-
+## Video Singkat
 https://drive.google.com/file/d/1xhV2_BxcpB0OgxWlan3KetBPrDiQDJwt/view?usp=sharing
